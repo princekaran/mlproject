@@ -1,6 +1,5 @@
 
-Sure, here are some crisp Pandas notes for a data science interview:
-
+Some crisp Pandas notes:
 ### Pandas Basics
 
 - **Importing Pandas**:
