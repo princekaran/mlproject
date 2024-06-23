@@ -1,4 +1,4 @@
-Certainly! Here are concise notes on essential PySpark syntax:
+concise notes on essential PySpark syntax:
 
 ### Initialization
 To start using PySpark, initialize a Spark session.
