@@ -1,4 +1,3 @@
-Certainly! Here is the formatted content for a GitHub markdown file:
 
 ```markdown
 # PySpark Notes
